@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -31,7 +32,8 @@
             <li class="itens">Profissionais Qualificados</li>
             
         </ul>
-        </div>
 
+        <img src="beneficios.jpg" class="imagembeneficios" >
+    </div>
   </body>
 </html>
